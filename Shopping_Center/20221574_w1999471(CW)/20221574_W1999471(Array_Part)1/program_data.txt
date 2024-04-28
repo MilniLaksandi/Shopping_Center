@@ -1,0 +1,4 @@
+QUEUE1:[milni, ayani]
+QUEUE2:[miron, umaya, yohani]
+QUEUE3:[hasheena, sachinthani, yashini, kapila, sanara]
+Current Burger Stock:50

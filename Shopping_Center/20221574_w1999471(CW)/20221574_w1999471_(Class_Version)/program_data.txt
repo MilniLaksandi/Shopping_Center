@@ -1,0 +1,2 @@
+QUEUE1:milni silva:5
+QUEUE2:miron silva:10
